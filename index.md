@@ -1,4 +1,4 @@
-# My Website Title 
+# Pranali's Website
 
 My first website using Markdown and GitHub Pages.
 
@@ -10,5 +10,5 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://techpranali.github.io/cintel-01-pages/)
+![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
